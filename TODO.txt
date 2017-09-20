@@ -1,0 +1,8 @@
+[0.0.1]
+- main interface
+- store user/device id
+- use gradle for build
+- compile 'org.json:json:20170516'
+
+[0.0.2]
+- unit tests
